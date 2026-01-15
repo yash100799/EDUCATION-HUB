@@ -14,7 +14,7 @@ and easy to use for students.* <br />
 *Website is deployed on Microsoft Azure using Static Web App* <br />
 
 **Technologies and Softwares used:-** <br />
-1. Microsoft Azure <br />
+1.Microsoft Azure <br />
 2.HTML <br />
 3.CSS <br />
 4.JAVASCRIPT <br />
