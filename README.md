@@ -13,12 +13,13 @@ EDUCATION-HUB website provides multi platform support with proper implementation
 and easy to use for students.* <br />
 *Website is deployed on Microsoft Azure using Static Web App* <br />
 
-**Technology and Software used:-** <br />
-1.HTML <br />
-2.CSS <br />
-3.JAVASCRIPT <br />
-3.VISUAL STUDIO CODE <br />
-4.GOOGLE CHROME <br />
+**Technologies and Softwares used:-** <br />
+1. Microsoft Azure
+2.HTML <br />
+3.CSS <br />
+4.JAVASCRIPT <br />
+5.VISUAL STUDIO CODE <br />
+6.GOOGLE CHROME <br />
 
 **Implementation Screenshots:-** <br />
 ## Azure-Deployment
